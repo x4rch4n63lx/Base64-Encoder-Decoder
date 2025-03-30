@@ -1,3 +1,4 @@
+# ===================================================================================
 # Created By     : x_4rch4n63l_x
 # Created On     : 12/31/2024 - 12:02PM 
 # Script Purpose : Base64 Encoder/Decoder tool coded in Python
@@ -15,3 +16,4 @@
 #                  - Python 3.x installed on your machine.
 #
 # Usage Note     : Ensure you have Python installed and follow the setup guide for running the script.
+# ===================================================================================
